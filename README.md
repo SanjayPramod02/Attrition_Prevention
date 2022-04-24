@@ -1,4 +1,4 @@
-# Attrition_Prevention
+# Attrition Prevention Project - Team 11
 
 
 ## Dataset:
@@ -23,12 +23,12 @@ Identify factors that affect Attrition, predict optimal conditions to make peopl
 
 ## Data Preparation:
 
-1. Cleaning the data  
+1. **Cleaning the data**  
   a. Drop irrelevant columns  
     b. Check to filter out unsuitable rows  
       c. Modify names to standard format  
   
-2. Feature Engineering  
+2. **Feature Engineering**  
   a.JobSwitchRate  
     b.RelIncAtLev
 
@@ -56,9 +56,9 @@ Identify factors that affect Attrition, predict optimal conditions to make peopl
 4. fit the data to the model and tune hyperparameters.  
 
 ## Models Used:
-1. The Decision Tree Classifier from sklearn which splits dataset along features to predict the class.
-2. BalancedBaggingTreeClassifier, which fits a base estimator on subsets of original data and aggregates predictions.
-3. XGBoost Classifier: An ensemble method which combines many weaker tree-based models and optimizes an arbitrary loss function to make better predictions.
+1. The **Decision Tree Classifier** from sklearn which splits dataset along features to predict the class.
+2. **BalancedBaggingTreeClassifier**, which fits a base estimator on subsets of original data and aggregates predictions.
+3. **XGBoost Classifier**: An ensemble method which combines many weaker tree-based models and optimizes an arbitrary loss function to make better predictions.
 
 ## Recommendation:
 We pick 3 features — OverTime, BusinessTravel and RelIncAtLevel based on 2 criteria .  
