@@ -1,4 +1,9 @@
-# Attrition Prevention Project - Team 11
+# Attrition Prevention Project - Team 11 SC16
+
+##Team Members
+Apurva Mishra - U2120474C
+Najah Ismail - U2120555F
+Sanjay Pramod - U2120505E
 
 
 ## Dataset:
@@ -96,4 +101,17 @@ Those with High Performance and Low Satisfaction
 Mid-level Employees
 Younger Employees 
 Those in Overworked Job Roles
+
+##Contribution Distribution
+Data Preparation - Apurva Mishra
+EDA Overview - Najah Ismail
+Mini EDA questions - Apurva Mishra
+Model Building - Sanjay Pramod
+Recommendation Verification and Results - all three
+
+##References:
+Data Link : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+Description of variables: http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2018FBL/IBM_Attrition_VSS.html
+
+
 
